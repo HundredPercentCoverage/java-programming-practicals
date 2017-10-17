@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  * This class was written to solve part one of the third practical
- * @author 14292017
+ * @author ML
  *
  */
 public class Part1 {
