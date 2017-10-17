@@ -91,6 +91,7 @@ public class PartThree {
 		System.out.println();
 		
 		// 3.8 - nested for loops
+		// This was my original solution
 //		for(int i = 0; i < 3; i++) {
 //			for (int j = 1; j <= 10; j++) {
 //				// Append the number of stars depending on which iteration of the outer loop we're on
@@ -111,14 +112,13 @@ public class PartThree {
 //			System.out.println();
 //		}
 		
+		// Following solution from David Pinkerton (much better in my view)
 		String asterisk = "";
 		
-		
 		for (int i = 0; i < 3; i++) {
-			
-			asterisk += "*";
-			
+			asterisk += "*"; // Append asterisk string on each outer loop
 			for (int j = 1; j <=10; j++) {
+				// Set a condition to avoid the comma on the last number
 				if (j == 10) {
 					System.out.printf("%s%d\n", asterisk, j);
 					break;
