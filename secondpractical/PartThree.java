@@ -27,7 +27,7 @@ public class PartThree {
 		
 		// Declare ints for different ages and calculate their respective values
 		int yearOfBirth, yearWhenITurn21, yearWhenITurn40, yearWhenIRetireAt60;
-		yearOfBirth = 1982;
+		yearOfBirth = 1980;
 		yearWhenITurn21 = yearOfBirth + 21;
 		yearWhenITurn40 = yearOfBirth + 40;
 		yearWhenIRetireAt60 = yearOfBirth + 60;
