@@ -4,7 +4,7 @@
 package uk.ac.qub.secondpractical;
 
 /**
- * @author 14292017
+ * @author ML
  *
  */
 public class PartOne {
@@ -30,16 +30,16 @@ public class PartOne {
 //		System.out.println("  *******");
 //		System.out.println(" *********\n");
 		
-		// Print a Christmas tree (fancy way)
-		String stars = "*"; // This will be our string of stars, initialise with one
-		String spaces = ""; // Our string of spaces from the side of the console
+		// Print a Christmas tree (my fancy way)
+		String stars = "*"; 	// This will be our string of stars, initialise with one
+		String spaces = ""; 	// Our string of spaces from the side of the console
 		int numLines = 5; 	//Number of rows on our tree
 		
 		System.out.println("Happy Christmas (cool way)");
 		
 		for(int i=0; i<numLines; i++) { 	// Loop through each line
 			for(int j=numLines; j>i; j--) {	// Build the string of spaces to the row of stars - spaces to first row = number of lines
-				spaces += " "; 				// Concatenate 'spaces' string incrementally
+				spaces += " "; 		// Concatenate 'spaces' string incrementally
 			}
 			System.out.println(spaces + stars);
 			
