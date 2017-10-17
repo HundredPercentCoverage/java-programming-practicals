@@ -1,2 +1,2 @@
-# java-programming-practicals
-Repo for Java practical solutions
+# Java Practical Solutions
+My solutions from Java practical assignments
