@@ -5,7 +5,7 @@ public class PartTwo {
 	public static void main(String[] args) {
 		// Declare String object and assign my name to it
 		String myName;
-		myName = "Matthew Laughlin";
+		myName = "ML";
 		
 		// Print out myName string
 		System.out.println("The input string: " + myName);
