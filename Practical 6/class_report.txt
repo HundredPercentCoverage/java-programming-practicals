@@ -1,0 +1,45 @@
+First name: Joe
+Last name: Bloggs
+Age: 31
+Student number: 1234567
+
+First name: Jimi
+Last name: Hendrix
+Age: 35
+Student number: 11111111
+
+First name: Carole
+Last name: King
+Age: 27
+Student number: 458349583
+
+First name: Jimmy
+Last name: Wales
+Age: 28
+Student number: 87934534
+
+First name: James
+Last name: Dean
+Age: 25
+Student number: 8425475
+
+First name: Jennifer
+Last name: Lawrence
+Age: 23
+Student number: 1344534
+
+First name: Jimmy
+Last name: Nail
+Age: 54
+Student number: 92485
+
+First name: Hank
+Last name: Hill
+Age: 55
+Student number: 2985394
+
+First name: Beavis
+Last name: Butthead
+Age: 17
+Student number: 23432
+
